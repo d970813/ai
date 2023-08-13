@@ -1,0 +1,55 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    font-family: 'Tilt Prism', cursive;
+}
+
+body{
+    background-size: cover;
+}
+
+.div_volume{
+    float: right;
+}
+.div_volume_img{
+    width: 200px;
+    border-radius: 100px;
+}
+#volume{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.div_speed{
+    float: left;
+}
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+.play_button{
+    width: 130px;
+    font-size: 25px;
+}
+canvas{
+    border : 5px solid rgb(165, 213, 255);
+border-radius: 20px;
+}
+h3{
+    box-shadow: 12px 12px 2px 1px rgba(199, 116, 255, 0.578);
+}
+button{
+    box-shadow: 3px 3px rgb(227, 132, 132), -1em 0 .4em rgb(190, 106, 255);
+   text-decoration: line-through;
+   font-family: 'Caprasimo', cursive;
+}
